@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ayushi",
+    "rating": "5",
+    "feedback": "good Quality!",
+    "age": "22"
+  },
+  {
+    "name": "Rahul",
+    "rating": "four",
+    "feedback": "Very useful product",
+    "age": "24"
+  },
+  {
+    "name": "Sneha",
+    "rating": "5",
+    "feedback": "Excellent service",
+    "age": "21"
+  },
+    {
+    "name": "Sweata",
+    "rating": "3",
+    "feedback": "Good",
+    "age": "28"
+  }
+]
